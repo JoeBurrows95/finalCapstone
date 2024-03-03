@@ -1,0 +1,89 @@
+Total users							: 		 12
+Total tasks							: 		 7
+
+User Specific Data
+
+User: admin
+Total user tasks					: 		 2
+% of total tasks assigned to user	: 		 28.6%
+% of user's tasks completed			: 		 50.0%
+% of user's tasks incomplete		: 		 50.0%
+% of user's tasks overdue			: 		 100.0%
+
+User: joe
+Total user tasks					: 		 3
+% of total tasks assigned to user	: 		 42.9%
+% of user's tasks completed			: 		 33.3%
+% of user's tasks incomplete		: 		 66.7%
+% of user's tasks overdue			: 		 50.0%
+
+User: joe2
+Total user tasks					: 		 0
+% of total tasks assigned to user	: 		 0.0%
+% of user's tasks completed			: 		 0.0%
+% of user's tasks incomplete		: 		 0.0%
+% of user's tasks overdue			: 		 0.0%
+
+User: joseph
+Total user tasks					: 		 0
+% of total tasks assigned to user	: 		 0.0%
+% of user's tasks completed			: 		 0.0%
+% of user's tasks incomplete		: 		 0.0%
+% of user's tasks overdue			: 		 0.0%
+
+User: user50
+Total user tasks					: 		 0
+% of total tasks assigned to user	: 		 0.0%
+% of user's tasks completed			: 		 0.0%
+% of user's tasks incomplete		: 		 0.0%
+% of user's tasks overdue			: 		 0.0%
+
+User: user51
+Total user tasks					: 		 0
+% of total tasks assigned to user	: 		 0.0%
+% of user's tasks completed			: 		 0.0%
+% of user's tasks incomplete		: 		 0.0%
+% of user's tasks overdue			: 		 0.0%
+
+User: mollie
+Total user tasks					: 		 0
+% of total tasks assigned to user	: 		 0.0%
+% of user's tasks completed			: 		 0.0%
+% of user's tasks incomplete		: 		 0.0%
+% of user's tasks overdue			: 		 0.0%
+
+User: moll
+Total user tasks					: 		 0
+% of total tasks assigned to user	: 		 0.0%
+% of user's tasks completed			: 		 0.0%
+% of user's tasks incomplete		: 		 0.0%
+% of user's tasks overdue			: 		 0.0%
+
+User: User 1
+Total user tasks					: 		 0
+% of total tasks assigned to user	: 		 0.0%
+% of user's tasks completed			: 		 0.0%
+% of user's tasks incomplete		: 		 0.0%
+% of user's tasks overdue			: 		 0.0%
+
+User: User
+Total user tasks					: 		 0
+% of total tasks assigned to user	: 		 0.0%
+% of user's tasks completed			: 		 0.0%
+% of user's tasks incomplete		: 		 0.0%
+% of user's tasks overdue			: 		 0.0%
+
+User: JoeBurrows
+Total user tasks					: 		 2
+% of total tasks assigned to user	: 		 28.6%
+% of user's tasks completed			: 		 0.0%
+% of user's tasks incomplete		: 		 100.0%
+% of user's tasks overdue			: 		 100.0%
+
+User: JonStewart
+Total user tasks					: 		 0
+% of total tasks assigned to user	: 		 0.0%
+% of user's tasks completed			: 		 0.0%
+% of user's tasks incomplete		: 		 0.0%
+% of user's tasks overdue			: 		 0.0%
+

@@ -1,0 +1,7 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2024-02-21;2022-11-22;No
+JoeBurrows;Test task manager;Complete testing to confirm acceptance criteria met. Carry out exploratory testing too;2023-02-28;2024-02-21;No
+admin;Add new user;Register new user JonStewart;2024-03-12;2024-02-21;Yes
+admin;Test display statistics;Confirm that statistics still display in the same way after refactor;2024-04-11;2024-04-21;No
+JonStewart;Review task manager;Review the code in task manager and provide feedback to JoeBurrows;2024-10-05;2024-03-01;No
+JoeBurrows;Create repo in GitHub for capstone project;GitHub repo needs to be created for this capstone project, so that it can be shared publicly with interested parties;2024-03-06;2024-03-03;No
+JoeBurrows;Submit capstone project;Add files to Dropbox folder and submit for review on HyperionDev dashboard;2024-03-06;2024-03-03;No
